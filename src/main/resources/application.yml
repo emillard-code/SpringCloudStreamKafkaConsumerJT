@@ -1,0 +1,6 @@
+spring:
+  cloud:
+    stream:
+      bindings:
+        input:
+          destination: spring-cloud-kafka-binder
